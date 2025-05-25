@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Frontend Developer From The Philippines</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning how to code again since I'm gone a long time ago.<br><br>📫 How to reach me aaronerodelsantos@gmail.com<br><br>⚡ Fun fact I am a diverse person, I could do a lot of things, but I'm not an expert, just doing the bare minimum. ASd
+🌱 I’m currently learning how to code again since I'm gone a long time ago.<br><br>📫 How to reach me aaronerodelsantos@gmail.com<br><br>⚡ Fun fact I am a diverse person, I could do a lot of things, but I'm not an expert, just doing the bare minimum.
 
 
 ## 🌐 Socials:
