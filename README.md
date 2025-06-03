@@ -1,8 +1,8 @@
   <h1 align="center">Hi 👋, I'm Aarone Rodel M. Santos</h1>
-<h3 align="center">A Passionate Frontend Developer From the Philippines</h3>
+<h3 align="center">A Passionate Frontend Developer from the Philippines</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning how to code again since I'm gone a long time ago.<br><br>📫 How to reach me aaronerodelsantos@gmail.com<br><br>⚡ Fun fact I am a diverse person, I could do a lot of things, but I'm not an expert, just doing the bare minimum.
+🌱 I’m currently learning how to code again. Since I'm gone a long time ago.<br><br>📫 How to reach me aaronerodelsantos@gmail.com<br><br>⚡ Fun fact I am a diverse person, I could do a lot of things, but I'm not an expert, just doing the bare minimum.
 
 
 ## 🌐 Socials:
